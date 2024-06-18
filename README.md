@@ -3,7 +3,7 @@
  You should first clone the repository on your local machine and install the dependencies:   
   
 
-  $ npm i
+    npm i
 
    Then you should be able to start the application:
 
