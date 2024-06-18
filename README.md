@@ -10,11 +10,11 @@
  
      npm run dev
 
- Tests are in public folder with the name demo.test.ts. Run below command to run the tests
+ Tests are in public folder with the name 'demo.test.ts'. Run below command to run the tests
 
       npx playwright test
 
    username used is emilys
-   password used is emilyspass
+   and password used is emilyspass
 
    
